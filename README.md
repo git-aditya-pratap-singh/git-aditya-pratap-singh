@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**git-aditya-pratap-singh/git-aditya-pratap-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
@@ -21,6 +5,9 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
+
+<h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
+<h3 align="center">Python Developer || Full-Stack Web Developer || django Developer || React Developer</h3>
 
 <table align="right">
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
