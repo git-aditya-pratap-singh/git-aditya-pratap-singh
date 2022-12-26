@@ -60,6 +60,8 @@
 <code> <img title="PostMan" alt="postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
 <code> <img title="Redux" alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></code>
 <code> <img title="Webpack" alt="WebPack" width="30px" src="https://github.com/git-aditya-pratap-singh/git-aditya-pratap-singh/blob/main/icons8-webpack-48.png" /></code>
+<code> <img title="Webpack" alt="WebPack" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
+<code> <img title="SQlite" alt="SQlite" width="30px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /></code>
 <code> <img title="OpenCV" alt="opencv" width="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /></code>
 </br></br>
 
