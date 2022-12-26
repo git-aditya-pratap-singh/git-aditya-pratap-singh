@@ -59,7 +59,7 @@
 <code> <img title="FireBase" alt="firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></code>
 <code> <img title="PostMan" alt="postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
 <code> <img title="Redux" alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></code>
-<code> <img title="Webpack" alt="WebPack" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" /></code>
+<code> <img title="Webpack" alt="WebPack" width="30px" src="https://github.com/git-aditya-pratap-singh/git-aditya-pratap-singh/blob/main/icons8-webpack-48.png" /></code>
 <code> <img title="OpenCV" alt="opencv" width="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /></code>
 </br></br>
 
