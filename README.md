@@ -30,7 +30,7 @@
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
 </a>
 <a href="https:"https://linkedin.com/in/theaditya-pratap-singh">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=Aditya Pratap Singh &color=0A66C2&style=flat&logo=linkedin" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=AdityaPratapSingh &color=0A66C2&style=flat&logo=linkedin" />
 </a>
 </a>
 <a href="mailto:singhadityapratap370@gmail.com">
