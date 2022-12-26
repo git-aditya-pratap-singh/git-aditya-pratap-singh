@@ -20,19 +20,21 @@
 </p>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/git-aditya-pratap-singh">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@git-aditya-pratap-singh">
-</a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
-</a>
-<a href="https://twitter.com/carol_heloo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
-</a>
 <a href="https:"https://linkedin.com/in/theaditya-pratap-singh">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=AdityaPratapSingh &color=0A66C2&style=flat&logo=linkedin" />
 </a>
+<a href="https://github.com/git-aditya-pratap-singh">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@git-aditya-pratap-singh">
 </a>
+<a href="https://www.instagram.com/code_with_aadi_2.0/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@code_with_aadi_2.0&color=000000&style=flat&logo=instagram"  />
+</a>
+<a href="https://www.youtube.com/@CodingHubTech">
+    <img alt="link to my Youtube" src="https://img.shields.io/static/v1?label&message=@code_with_aadi_2.0&color=0A66C&style=flat&logo=youtube"  />
+</a> 
+<a href="https://www.hackerrank.com/aditya_singh_20">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@aditya39&color=000000&style=flat&logo=hackerrank"  />
+</a>                                                                                                                                                                                                                                                                                 
 <a href="mailto:singhadityapratap370@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=singhadityapratap370@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
