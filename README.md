@@ -3,7 +3,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/git-aditya-pratap-singh/git-aditya-pratap-singh/blob/main/React%20Developer%20%20django%20Developer.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Aditya;Python+Developer;Full-Stack+Web+Developer;React+Developer;django+Developer;" alt="Python Developer React Developer Full-Stack Developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3AC&size=30&center=true&vCenter=true&width=450&lines=I'm+Aditya;Python+Developer;Full-Stack+Web+Developer;React+Developer;django+Developer;" alt="Python Developer React Developer Full-Stack Developer"></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
