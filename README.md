@@ -13,7 +13,7 @@
 
 - 🖥️ I’m currently working on **ReactJS & django Development**
 
-- 👨‍💻 I’m currently learning **Django, React, Artificial Intelligence, Machine Learning!**
+- 👨‍💻 I’m currently learning **django, React, Artificial Intelligence, Machine Learning!**
 
 - 👯 I’m looking to collaborate on **wonderfull year full of opportunities.**
 
