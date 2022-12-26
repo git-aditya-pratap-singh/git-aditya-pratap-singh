@@ -54,8 +54,13 @@
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="django" alt="django" width="25px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /></code>
+<code> <img title="PHP" alt="PHP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></code>
 <code> <img title="babelJS" alt="Babel" width="30px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" /></code>
 <code> <img title="FireBase" alt="firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></code>
+<code> <img title="PostMan" alt="postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
+<code> <img title="Redux" alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></code>
+<code> <img title="Webpack" alt="WebPack" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" /></code>
+<code> <img title="OpenCV" alt="opencv" width="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /></code>
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
