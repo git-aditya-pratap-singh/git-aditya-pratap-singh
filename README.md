@@ -3,17 +3,17 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/git-aditya-pratap-singh/git-aditya-pratap-singh/blob/main/React%20Developer%20%20django%20Developer.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3AC&size=30&center=true&vCenter=true&width=450&lines=I'm+Aditya;Python+Developer;Full-Stack+Web+Developer;React+Developer;django+Developer;" alt="Python Developer React Developer Full-Stack Developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3AC&size=30&center=true&vCenter=true&width=450&lines=I'm+Aditya;Python+Developer;Full-Stack+Web+Developer;React+Developer;MERN+Developer;" alt="Python Developer React Developer MERN Developer"></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
-<h3 align="center">Python Developer || Full-Stack Web Developer || django Developer || React Developer</h3>
+<h3 align="center">Python Developer || Full-Stack Web Developer || MERN Developer || React Developer</h3>
 
 <h2>🧑‍💼About me : </h2>
 
-- 🖥️ I’m currently working on **ReactJS & django Development**
+- 🖥️ I’m currently working on **ReactJS, MERN & django Development.**
 
-- 👨‍💻 I’m currently learning **django, React, Artificial Intelligence, Machine Learning!**
+- 👨‍💻 I’m currently learning **React, NodeJs, ExpressJs, MongoDB, django.**
 
 - 👯 I’m looking to collaborate on **wonderfull year full of opportunities.**
 
@@ -89,31 +89,6 @@
 </a>
 </br></br>
 
-<h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>
-
-<h3>:headphones: Albums I've listened to the most this week</h3>
-
-<!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5b476d367e684543c50c687bca4fb5d4.png" title="Rhapsody - Rain of a Thousand Flames"> </p>
-
-<p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
-
-<h2>:thought_balloon: Quote of the day</h2>
-<details open>
-<summary>See quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-</details>
-<h2>:zany_face: Joke of the day</h2>
-<details>
-<summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
-<h2>:octocat: My GitHub Stats</h2>
-<details>
 <summary>General Stats</summary>
 <div>
     <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
@@ -127,40 +102,16 @@
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
 </div>
-</details>
 
-<details>
 <summary>Top languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</details>
-<details>
-<summary>Streak stats</summary>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-</details>
-
-<details>
-<summary>Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
-</div>
-</details>
-
+    
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
-<h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
