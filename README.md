@@ -128,18 +128,7 @@
     </a>
 </div>
 </details>
-<details>
- <summary>Recent activity</summary>
-    
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Carol42/Carol42/issues/22) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-2. ❗️ Opened issue [#24980](https://github.com/timburgan/timburgan/issues/24980) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#2036](https://github.com/marcizhu/marcizhu/issues/2036) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ❗️ Opened issue [#1632](https://github.com/rossjrw/rossjrw/issues/1632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-5. ❗️ Opened issue [#1494](https://github.com/benjaminsampica/benjaminsampica/issues/1494) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-<!--END_SECTION:activity-->
 
-</details>
 <details>
 <summary>Top languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -153,18 +142,7 @@
         <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
 </details>
-<details>
-<summary>Contribution Graph</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-</a>
-</details>
-<details>
-<summary>Achievements</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
-</a>
-</details>
+
 <details>
 <summary>Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
