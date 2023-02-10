@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
-<h3 align="center">Python Developer || Full-Stack Web Developer || MERN Developer || React Developer</h3>
+<h3 align="center">React Developer || Full-Stack Web Developer || MERN Developer || Python Developer</h3>
 
 <h2>🧑‍💼About me : </h2>
 
