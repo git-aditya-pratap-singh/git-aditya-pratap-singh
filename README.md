@@ -1,6 +1,6 @@
 
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/git-aditya-pratap-singh/git-aditya-pratap-singh/blob/main/WelCome to my profile.png"></div>
+<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/git-aditya-pratap-singh/git-aditya-pratap-singh/blob/main/WelCome to my profile.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3AC&size=30&center=true&vCenter=true&width=450&lines=I'm+Aditya;Python+Developer;Full-Stack+Web+Developer;React+Developer;MERN+Developer;" alt="Python Developer React Developer MERN Developer"></a>
