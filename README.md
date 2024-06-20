@@ -11,15 +11,15 @@
 
 <h2>🧑‍💼About me : </h2>
 
-- 🖥️ I’m currently working on **ReactJS, MERN & django Development.**
+- 🖥️ I’m currently working on **ReactJS, Nodejs, MongoDB/MySQL, Api Integration & Development.**
 
-- 👨‍💻 I’m currently learning **React, NodeJs, ExpressJs, MongoDB, django.**
+- 👨‍💻 I’m currently learning **docker, NextJs, GraphQl, React-Native, AWS.**
 
 - 👯 I’m looking to collaborate on **wonderfull year full of opportunities.**
 
 - 🎯 All of my projects are available at  https://adityasingh39.github.io/A-portfolio.github.io/
 
-- 💬 Ask me about **Python, Java, C, JavaScript, PHP**
+- 💬 Ask me about ** React, Node, MongoDB, MySQL Aggragation-Pipeline, TailwindCSS, SCSS, REST-API, Python, Java, C, JavaScript, PHP**
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -39,7 +39,7 @@
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@aditya39&color=000000&style=flat&logo=hackerrank"  />
 </a>                                                                                                                                                                                                                                                                                 
 <a href="mailto:singhadityapratap370@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=singhadityapratap370@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=dev.theaditya@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
 
@@ -53,6 +53,7 @@
 <code><img title="TailwindCSS" alt="css" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="Nodejs" alt="node" width="25px" src="https://cdn.worldvectorlogo.com/logos/node.svg" /></code>
 <code><img title="django" alt="django" width="25px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /></code>
 <code> <img title="PHP" alt="PHP" width="30px" src="https://github.com/git-aditya-pratap-singh/git-aditya-pratap-singh/blob/main/icons8-php-48.png" /></code>
 <code> <img title="babelJS" alt="Babel" width="30px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" /></code>
